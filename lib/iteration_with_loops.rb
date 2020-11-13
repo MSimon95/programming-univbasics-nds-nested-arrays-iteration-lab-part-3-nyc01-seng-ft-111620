@@ -16,5 +16,6 @@ while row_index < src.count do
 end
 phrase
 phrase.join("")
+phrase
   binding.pry
 end
