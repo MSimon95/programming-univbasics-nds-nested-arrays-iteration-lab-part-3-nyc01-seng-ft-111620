@@ -17,4 +17,5 @@ while row_index < src.count do
 end
 phrase
 
-endputs phrase
+end
+puts phrase
